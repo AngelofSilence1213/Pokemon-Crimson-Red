@@ -95,10 +95,10 @@ VendingMachineText1:
 	db "@"
 
 DrinkText:
-	db   "FRESH WATER"
-	next "SODA POP"
-	next "LEMONADE"
-	next "CANCEL@"
+	db   "Fresh Water"
+	next "Soda Pop"
+	next "Lemonade"
+	next "Cancel@"
 
 DrinkPriceText:
 	db   "¥200"
